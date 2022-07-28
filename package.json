@@ -1,6 +1,6 @@
 {
-  "name": "@landing/006-next",
-  "version": "0.1.0",
+  "name": "analyticaseo",
+  "version": "1.2.1",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -39,5 +39,17 @@
     "imagemin-svgo": "^8.0.0",
     "prettier": "^2.1.2",
     "next-sitemap": "^1.2.4"
-  }
+  },
+  "description": "AnalyticaSEO",
+  "main": "next-sitemap.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlrv-hub/analytica-react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mlrv-hub/analytica-react/issues"
+  },
+  "homepage": "https://github.com/mlrv-hub/analytica-react#readme"
 }
